@@ -1,9 +1,9 @@
-VeggieRecipies - Mobile network security suite based on dSploit.
+VeggieRecipies
 ==============================
 
-Original app Copyright Simone Margaritelli. Tweaked in a CrockPotVeggies style.
+Mobile network security suite based on dSploit. CrockPotVeggies style.
 
-- <http://www.dsploit.net/>
+Original app Copyright Simone Margaritelli. http://www.dsploit.net/
 
 [![Click here to lend your support to: dSploit and make a donation at www.pledgie.com](http://www.pledgie.com/campaigns/22257.png?skin_name=chrome)](http://www.pledgie.com/campaigns/22257)
 
@@ -12,7 +12,7 @@ Original app Copyright Simone Margaritelli. Tweaked in a CrockPotVeggies style.
 VeggieRecipies is an Android network analysis and penetration suite which aims to offer to IT security experts/geeks
 **the most complete and advanced professional toolkit** to perform network security assesments on a mobile device.
 
-Once dSploit is started, you will be able to easily map your network, fingerprint alive hosts operating systems
+Once VeggieRecipies is started, you will be able to easily map your network, fingerprint alive hosts operating systems
 and running services, search for **known vulnerabilities**, crack logon procedures of many tcp protocols, perform
 man in the middle attacks such as **password sniffing** ( with common protocols dissection ), real time **traffic
 manipulation**, etc, etc.
@@ -38,7 +38,7 @@ Disclaimer
 
 Important! As per CrockPotVeggies open source software this repo is not going to be supported. Please direct your inquiries to dSploit's team directly.
 
-This application is not to be used for any purposes other than to demonstrate its functions, and must only be used on networks for which you have permission to do so. Any other use is not the responsibility of the developer. In other words, don't be stupid, and don't direct angry people towards me.
+This application is not to be used for any purposes other than to demonstrate its functions, and must only be used on networks for which you have permission to do so. Depending on your location, there are very explicit laws outlining interception of wireless traffic. Learn them, study them, and follow them.
 
 License
 -------------
