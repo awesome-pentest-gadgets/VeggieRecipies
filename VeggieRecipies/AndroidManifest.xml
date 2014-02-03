@@ -4,8 +4,8 @@
           android:versionName="1.1.3b">
 
     <uses-sdk
-            android:minSdkVersion="9"
-            android:targetSdkVersion="18"/>
+            android:minSdkVersion="19"
+            android:targetSdkVersion="19"/>
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
     <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>

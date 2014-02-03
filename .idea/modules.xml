@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/dSploit/dSploit.iml" filepath="$PROJECT_DIR$/dSploit/dSploit.iml" />
-      <module fileurl="file://$PROJECT_DIR$/dsploit.iml" filepath="$PROJECT_DIR$/dsploit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VeggieRecipies.iml" filepath="$PROJECT_DIR$/VeggieRecipies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/VeggieRecipies/VeggieRecipies-VeggieRecipies.iml" filepath="$PROJECT_DIR$/VeggieRecipies/VeggieRecipies-VeggieRecipies.iml" />
     </modules>
   </component>
 </project>
