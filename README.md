@@ -1,22 +1,21 @@
-dSploit - An Android network penetration suite.
+VeggieRecipies - Mobile network security suite based on dSploit.
 ==============================
 
-Copyleft of Simone Margaritelli aka evilsocket.
+Original app Copyright Simone Margaritelli. Tweaked in a CrockPotVeggies style.
 
 - <http://www.dsploit.net/>
-- <http://www.evilsocket.net/>
 
 [![Click here to lend your support to: dSploit and make a donation at www.pledgie.com](http://www.pledgie.com/campaigns/22257.png?skin_name=chrome)](http://www.pledgie.com/campaigns/22257)
 
 -------------
 
-dSploit is an Android network analysis and penetration suite which aims to offer to IT security experts/geeks
+VeggieRecipies is an Android network analysis and penetration suite which aims to offer to IT security experts/geeks
 **the most complete and advanced professional toolkit** to perform network security assesments on a mobile device.
 
 Once dSploit is started, you will be able to easily map your network, fingerprint alive hosts operating systems
 and running services, search for **known vulnerabilities**, crack logon procedures of many tcp protocols, perform
 man in the middle attacks such as **password sniffing** ( with common protocols dissection ), real time **traffic
-manipulation**, etc, etc .
+manipulation**, etc, etc.
 
 This application is still in **beta stage**, a stable release will be available as soon as possible, but expect
 some crash or strange behaviour until then, in any case, feel free to submit an issue here on GitHub.
@@ -37,7 +36,9 @@ This is something i want to be like this, every interface is designed to work in
 Disclaimer
 -------------
 
-This application is not to be used for any purposes other than to demonstrate its functions, and must only be used on networks for which you have permission to do so. Any other use is not the responsibility of the developer.In other words, don't be stupid, and don't direct angry people towards me.
+Important! As per CrockPotVeggies open source software this repo is not going to be supported. Please direct your inquiries to dSploit's team directly.
+
+This application is not to be used for any purposes other than to demonstrate its functions, and must only be used on networks for which you have permission to do so. Any other use is not the responsibility of the developer. In other words, don't be stupid, and don't direct angry people towards me.
 
 License
 -------------
