@@ -1,4 +1,4 @@
-VeggieRecipies
+![Fresh Chili](https://raw.github.com/crockpotveggies/VeggieRecipies/master/VeggieRecipies/res/drawable-hdpi/ic_launcher.png) VeggieRecipies
 ==============================
 
 Mobile network security suite based on dSploit. CrockPotVeggies style.
