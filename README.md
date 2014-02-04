@@ -3,9 +3,7 @@ VeggieRecipies
 
 Mobile network security suite based on dSploit. CrockPotVeggies style.
 
-Original app Copyright Simone Margaritelli. http://www.dsploit.net/
-
-[![Click here to lend your support to: dSploit and make a donation at www.pledgie.com](http://www.pledgie.com/campaigns/22257.png?skin_name=chrome)](http://www.pledgie.com/campaigns/22257)
+Original app copyright Simone Margaritelli. http://www.dsploit.net/
 
 -------------
 
